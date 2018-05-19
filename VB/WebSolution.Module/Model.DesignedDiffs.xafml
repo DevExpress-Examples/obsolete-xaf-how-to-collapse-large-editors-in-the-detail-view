@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application Title="WebSolution" Logo="ExpressAppLogo">
+	<NavigationItems IsNewNode="True">
+		<Group ID="Default" IsNewNode="True">
+			<Item ID="Person" ViewID="Person_ListView" IsNewNode="True" />
+		</Group>
+	</NavigationItems>
+	<SchemaModules IsNewNode="True">
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="9.1.4.0" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="9.1.4.0" IsNewNode="True" />
+		<SchemaModule Name="SystemModule" Version="9.1.4.0" IsNewNode="True" />
+	</SchemaModules>
+</Application>
