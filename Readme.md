@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CollapseLargeEditorDetailViewController.cs](./CS/WebSolution.Module.Web/CollapseLargeEditorDetailViewController.cs) (VB: [CollapseLargeEditorDetailViewController.vb](./VB/WebSolution.Module.Web/CollapseLargeEditorDetailViewController.vb))
+<!-- default file list end -->
 # OBSOLETE - How to collapse large editors in the Detail View on the Web
 
 
